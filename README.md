@@ -13,7 +13,7 @@
 
 - 💻 I'm a Full-Stack developer.
 - 🪺 I'm currently working at TSMC.
-- 🎧 Fun fact: I'm a amateur music composer.
+- 🎧 Fun fact: I'm an amateur music composer.
 
 📈 Stats
 ---
