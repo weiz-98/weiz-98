@@ -26,7 +26,7 @@
 
 💡 My tech stack
 ---
-[![My Skills](https://skillicons.dev/icons?i=java,golang,py,javascript,typescript,c++,react,nextjs,express,maven,spring,django,pytorch,grafana,prometheus,elasticsearch,docker,kubernetes,mysql,mongodb,aws,terraform,azure,gitlab,obsidian&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,golang,py,javascript,typescript,cpp,react,nextjs,express,maven,spring,django,pytorch,grafana,prometheus,elasticsearch,docker,kubernetes,mysql,mongodb,aws,terraform,azure,gitlab,obsidian&perline=5&theme=dark)](https://skillicons.dev)
 
 <!--
 **ysl0628/ysl0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
