@@ -20,7 +20,6 @@
 
 [![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiz-98&theme=tokyonight&card_width=495&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Ian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiz-98&theme=tokyonight&layout=compact&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weiz-98&theme=tokyonight&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
